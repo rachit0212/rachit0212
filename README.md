@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rachit Dwivedi</h1>
 <h3 align="center">A passionate full stack web developer from India. Also Student Expert in Postman API.</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f")
-
+<img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachit0212&label=Profile%20views&color=0e75b6&style=flat" alt="rachit0212" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachit0212" alt="rachit0212" /></a> </p>
