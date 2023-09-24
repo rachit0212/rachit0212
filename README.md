@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rachit Dwivedi</h1>
-<h3 align="center">A passionate full stack web developer from India. Also Student Expert in Postman API.</h3>
+<h3 align="center">A passionate full stack web developer from India. Also Student Expert in Postman API.
+I’m a junior programmer with proven skills in HTML, CSS, Javascript, C, C++, Java</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachit0212&label=Profile%20views&color=0e75b6&style=flat" alt="rachit0212" /> </p>
 
